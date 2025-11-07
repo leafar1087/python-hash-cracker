@@ -147,7 +147,7 @@ def main():
     if resultados['palabra']:
         pass # El éxito ya fue impreso por el hilo
     else:
-        print("[FALLO] La contraseña no fue encontrada en el diccionario.")
+        print("[FALLO] La contraseña no fue encontrada en el diccionario!.")
 
 # --- Punto de Entrada (sin cambios) ---
 if __name__ == "__main__":
